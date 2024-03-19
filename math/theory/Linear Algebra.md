@@ -19,17 +19,17 @@
 * Vector addition is the sum of two vectors.
 * For example,
 
-$\vec{a} = \left[ \begin{array}{c} 1 \\ 2 \end{array} \right]$
+$$\vec{a} = \left[ \begin{array}{c} 1 \\ 2 \end{array} \right]$$
 
-$\vec{b} = \left[ \begin{array}{c} 3 \\ -1 \end{array} \right]$
+$$\vec{b} = \left[ \begin{array}{c} 3 \\ -1 \end{array} \right]$$
 
-$\vec{c} = \vec{a}$$ + $$\vec{b}$
+$$\vec{c} = \vec{a} + \vec{b}$$
 
 Where $\vec{c}$ is calculated as,
 
-$\vec{c} = \left[ \begin{array}{c} 1+3 \\ 2-1 \end{array} \right]$
+$$\vec{c} = \left[ \begin{array}{c} 1+3 \\ 2-1 \end{array} \right]$$
 
-$\vec{c} = \left[ \begin{array}{c} 4 \\ 1 \end{array} \right]$
+$$\vec{c} = \left[ \begin{array}{c} 4 \\ 1 \end{array} \right]$$
 
 ### Scalar Multiplication
 * Scalar multiplication is where a scaler `a` is multiplied with a vector $\vec{a}$ to form a scaled vector
@@ -73,7 +73,7 @@ The unlucky case is the **linear dependent** and possiblity 2 is the **linear in
 
 # 5. Determinant
 * After the transformation , the area of $\hat{i}$ and $\hat{j}$ is called **determinant**
-* It tells the times the area before transformations
+* It tells the timSes the area before transformations
 * If the vectors are dependent then the determinant is 0.
 * If the determinant is negative, then the transformation flipped the whole vector space like turning the page in the book
 * Let the matrix be,
